@@ -161,3 +161,8 @@ font-size: 20px;
 .social-icon {
   margin: 20px 10px;
 }
+@media (max-width){
+.container-fluid{
+  padding: 7% 5%;
+}
+}
